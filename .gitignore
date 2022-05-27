@@ -127,3 +127,30 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+business.json
+test_review_copy.json
+DS_Store
+yelp_test_ans.csv
+yelp_train.csv
+yelp_val.csv
+task2_1_xy.py
+checkin.json
+tip.json
+user.json
+photo.json
+yelp_val_in.csv
+pred_2_1.csv
+pred_2_2.csv
+pred_2_2_1.csv
+test.csv
+output.txt
+ub_sample_data.csv
+pure_jaccard_similarity.csv
+users.txt
+predictions/pred_2_2_2.csv
+predictions/pred_2_2_3.csv
+predictions/pred_2_2_4.csv
+predictions/pred_2_2_5.csv
+HW6/data/hw6_clustering.txt
+data/hw6_clustering.txt
